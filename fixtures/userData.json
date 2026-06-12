@@ -1,0 +1,16 @@
+{
+    
+    "_Comment area":"Area dropdown data",
+
+    "areaDropdownData":["Health" ],
+
+    "_Comment category":"Category  data",
+
+     "categoryDropdownData":["Nutrition" ,"Exercise", "Flexibility"],
+     "newCategoryData":["Medication"],
+
+     "_Comment Subcategory":"SubCategory  data",
+
+     "newSubcategoryData":["Walking" , "Cycling"]
+
+}    
